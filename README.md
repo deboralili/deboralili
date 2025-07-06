@@ -1,4 +1,8 @@
-## Olá Mundo!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CE53B6&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deboralili&show_icons=true&theme=jolly&hide=prs&disable_animations=false&text_bold=false&locale=pt-br" />
