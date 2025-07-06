@@ -1,7 +1,13 @@
 ## Olá Mundo!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deboralili&show_icons=true&theme=ambient_gradient&hide=prs&card_width=200px&disable_animations=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deboralili&show_icons=true&theme=jolly&hide=prs&disable_animations=false&text_bold=false&locale=pt-br" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=deboralili&theme=jolly&locale=pt_BR&mode=weekly" alt="GitHub Streak" />
+  </a>
 </div>
 
 <div align="center">
