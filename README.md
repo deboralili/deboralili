@@ -1,14 +1,36 @@
-<div align="center">
+<!-- Typing "Bem-vindo!" -->
+<div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CE53B6&center=true&vCenter=true&width=435&lines=Ol%C3%A1+Mundo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&repeat=false&color=FFFFFF&width=435&lines=Bem-vindo!" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- Apresentação -->
+## Olá! Sou Débora Lessa - QA Engineer!
+
 ###
 
-<p align="left">Seja bem-vindo!<br><br>Sou Débora, futura QA Engineer.</p>
+<p align="left">
+  🎓 Formada em Sistemas de Informação pelo IF Sudeste MG.
+</p>
+<p align="left">
+  🐈 Apaixonada por gatinhos.
+</p>
+<p align="left">
+  🚀 Qualidade não é apenas um resultado, mas um processo — e fazer parte desse processo é algo que me motiva diariamente.
+</p>
 
 ###
+<!-- Projetos em Destaque -->
+## 📌 Projetos Atuais
+
+<div>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deboralili&repo=fundamentos-qualidade-de-software&theme=dark)](https://github.com/deboralili/fundamentos-qualidade-de-software)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deboralili&repo=testes-front-end-cypress&theme=dark)](https://github.com/deboralili/testes-front-end-cypress)  
+
+</div>
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
