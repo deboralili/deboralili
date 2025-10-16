@@ -6,7 +6,7 @@
 </div>
 
 <!-- Apresentação -->
-## Olá! Sou Débora Lessa - QA Engineer!
+## 👋🏻 Olá! Sou Débora Lessa - QA Engineer!
 
 <p align="left">
   🎓 Formada em Sistemas de Informação pelo IF Sudeste MG.
@@ -36,7 +36,7 @@
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=deboralili&theme=jolly&locale=pt_BR&mode=weekly" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=deboralili&theme=dark&locale=pt_BR&mode=weekly" 
       width="520" 
       alt="GitHub Streak" 
     />
@@ -46,14 +46,22 @@
 <div align="center">
   <a href="https://github.com/deboralili">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=deboralili&show_icons=true&theme=jolly&hide=prs&disable_animations=false&text_bold=false&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=deboralili&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&hide=prs&disable_animations=false&text_bold=false&locale=pt-br" 
       width="520"
       alt="Estatísticas do GitHub" 
     />
   </a>
 </div>
 
-
+<div align="center">
+  <a href="https://github.com/deboralili">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboralili&layout=compact&theme=dark" 
+      width="520"
+      alt="Linguagens mais usadas" 
+    />
+  </a>
+</div>
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
