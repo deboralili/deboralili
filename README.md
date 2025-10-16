@@ -8,8 +8,6 @@
 <!-- Apresentação -->
 ## Olá! Sou Débora Lessa - QA Engineer!
 
-###
-
 <p align="left">
   🎓 Formada em Sistemas de Informação pelo IF Sudeste MG.
 </p>
@@ -20,17 +18,42 @@
   🚀 Qualidade não é apenas um resultado, mas um processo — e fazer parte desse processo é algo que me motiva diariamente.
 </p>
 
-###
 <!-- Projetos em Destaque -->
 ## 📌 Projetos Atuais
 
-<div>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deboralili&repo=fundamentos-qualidade-de-software&theme=dark)](https://github.com/deboralili/fundamentos-qualidade-de-software)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deboralili&repo=testes-front-end-cypress&theme=dark)](https://github.com/deboralili/testes-front-end-cypress)  
-
+<div align="left">
+  <a href="https://github.com/deboralili/fundamentos-qualidade-de-software">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deboralili&repo=fundamentos-qualidade-de-software&theme=dark" />
+  </a>   
+  <a href="https://github.com/deboralili/testes-front-end-cypress">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deboralili&repo=testes-front-end-cypress&theme=dark" />
+  </a>
 </div>
+
+<!-- Estatísticas -->
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=deboralili&theme=jolly&locale=pt_BR&mode=weekly" 
+      width="520" 
+      alt="GitHub Streak" 
+    />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/deboralili">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=deboralili&show_icons=true&theme=jolly&hide=prs&disable_animations=false&text_bold=false&locale=pt-br" 
+      width="520"
+      alt="Estatísticas do GitHub" 
+    />
+  </a>
+</div>
+
+
 
 <h3 align="left">Tecnologias e Ferramentas</h3>
 
@@ -82,21 +105,7 @@
   <img width="12" />
 </div>
 
-###
 
-<h3 align="left">Estatísticas</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deboralili&show_icons=true&theme=jolly&hide=prs&disable_animations=false&text_bold=false&locale=pt-br" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=deboralili&theme=jolly&locale=pt_BR&mode=weekly" alt="GitHub Streak" />
-  </a>
-</div>
 
 <div align="center">
   <picture>
